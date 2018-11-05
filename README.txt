@@ -1,6 +1,4 @@
 
-Name: Aiping Zheng
-GTID: 903189104
 
 Code: 
 https://github.com/GrafDuckula/CS-7641-Assignment-3
